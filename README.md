@@ -1,6 +1,6 @@
 # jekyll-datatables
 
-This is a Liquid block for Jekyll sites that allows you to generate table using the awesome [jQuery DataTables plugin](http://datatables.net/).
+My attempt to write a Liquid block for Jekyll sites that allows you to generate table using the awesome [jQuery DataTables plugin](http://datatables.net/).
 
 ## How to install
 
