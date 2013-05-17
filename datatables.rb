@@ -42,7 +42,7 @@ module Jekyll
     # Handles each column block and add a column in the @columns array
     def handle_column_tag(params)
       args = split_params(params)
-      @columns << { :title => args[0] }
+      @columns << { :title => args[0].gsub!(/\A"|"\Z/, '') }
     end
 
     def render(context)
