@@ -4,7 +4,7 @@ My attempt to write a Liquid block for Jekyll sites that allows you to generate 
 
 ## How to install
 
-Just download the `datatables.rb` file and place it in the `_plugins/` inside your Jekyll project directory.
+Just download the `datatables.rb` file and place it in the `_plugins/` directory of your Jekyll project.
 
 ## Usage
 
