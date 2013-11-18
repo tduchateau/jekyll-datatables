@@ -44,3 +44,7 @@ Jekyll-Datatables generates all the HTML markup needed to make DataTables work:
  * `<table>` and all nested tags
  * `<script>` and `<link>` tags pointing to the last available release hosted on the Microsoft's CDN
  * The DataTables initialization code
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tduchateau/jekyll-datatables/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
